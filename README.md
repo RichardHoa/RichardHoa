@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about HTML&CSS
+💬Hi ,I'm Richard, a fresher from Fulbright University Vietnam, and I'm very enthusiastic to be buried in coding projects!
 
 
 ## 🌐 Socials:
