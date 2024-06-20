@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬Hi ,I'm Richard, my offical name is Hoà, a fresher from Fulbright University Vietnam, and I'm very enthusiastic to be buried in coding projects!
+💬Hi ,I'm Richard, my offical name is Hoà, a student from Fulbright University Vietnam, and I'm very enthusiastic to be buried in coding projects!
 
 
 ## 🌐 Socials:
