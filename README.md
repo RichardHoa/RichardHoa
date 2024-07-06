@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬Hi ,I'm Hoà, you can call me Richard, a undergraduate from Fulbright University Vietnam. I am currently working on a startup for ROAD(https://www.road.edu.vn/) but am open to part-time or freelance opportunities.
+💬Hi ,I'm Hoà, you can call me Richard, a undergraduate from Fulbright University Vietnam. I am currently working on a startup for [ROAD](https://www.road.edu.vn/) but am open to part-time or freelance opportunities.
 
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090299986965) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaihoa2291/) 
