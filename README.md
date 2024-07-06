@@ -1,8 +1,7 @@
 # 💫 About Me:
-💬Hi ,I'm Richard, my offical name is Hoà, a student from Fulbright University Vietnam, and I'm very enthusiastic to be buried in coding projects!
+💬Hi ,I'm Hoà, you can call me Richard, a undergraduate from Fulbright University Vietnam. I am currently working on a startup for ROAD(https://www.road.edu.vn/) but am open to part-time or freelance opportunities.
 
-
-## 🌐 Socials:
+🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100090299986965) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaihoa2291/) 
 
 # 💻 Tech Stack:
